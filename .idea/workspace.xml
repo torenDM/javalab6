@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1123c5b3-ab9a-4897-abca-1b5e60f873a7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javalab6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/demidov/main/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/demidov/main/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/demidov/main/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/demidov/main/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/demidov/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/demidov/task1/Entity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/demidov/task2/Cache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/demidov/task2/Default.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/demidov/task2/ExampleCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/demidov/task2/ExampleDefault.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/demidov/task2/ExampleInvoke.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/demidov/task2/ExampleToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/demidov/task2/ExampleTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/demidov/task2/ExampleValidate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/demidov/task2/Invoke.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/demidov/task2/ToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/demidov/task2/Two.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/demidov/task2/Validate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/demidov/task3/Entity2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/demidov/task3/ToString2.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2q4h27LLJ3v4Yj7nF97DnscZNtY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/777/javalab6/javalab6/src/ru"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\777\javalab6\javalab6\src\ru" />
+      <recent name="C:\Users\777\javalab6\javalab6\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1123c5b3-ab9a-4897-abca-1b5e60f873a7" name="Changes" comment="" />
+      <created>1733927546234</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733927546234</updated>
+    </task>
+    <servers />
+  </component>
+</project>
