@@ -1,8 +1,7 @@
 package ru.demidov.main;
 
-import ru.demidov.task1.*;
 import ru.demidov.task2.*;
-import ru.demidov.task3.*;
+
 
 // Основной класс для тестирования
 public class Main {
